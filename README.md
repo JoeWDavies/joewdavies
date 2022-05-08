@@ -2,6 +2,8 @@
 
 #### My name is Joe and I enjoy making maps
 
+<img src="https://github.com/JoeWDavies/joewdavies/raw/main/banner.png" width="100%"></img>
+
 <!--
 **JoeWDavies/joewdavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
