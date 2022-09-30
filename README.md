@@ -26,7 +26,7 @@ My expertise lies in building web applications and APIs that help derive meaning
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender"/></code>
 
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=joewdavies&show_icons=true&theme=gotham" alt="joewdavies" />
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/joewdavies) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joewdavies/)
 [![Observable Badge](https://img.shields.io/badge/Observable-Profile-informational?style=flat&logo=observable&logoColor=white&color=black)](https://observablehq.com/@joewdavies)
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=joewdavies&show_icons=true&theme=gotham" alt="joewdavies" />
